@@ -5,7 +5,7 @@ This is a demo project for [gdocweb](https://gdocweb.com), a tool that converts 
 
 This demo shows a simple resume outline as it's converted automatically from the document.
 
-This website can be browsed here: https://shai-almog.github.io/GdocwebSoftwareDocs/
+This website can be browsed here: https://shai-almog.github.io/GdocwebResumeSite/
 
 It was generated automatically from the following Google Documents:
 
